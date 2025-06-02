@@ -1,4 +1,4 @@
-# 🧠 Customer Segmentation using KMeans Clustering
+# Customer Segmentation using KMeans Clustering
 
 This project performs **unsupervised machine learning** on a credit card customer dataset using **KMeans clustering** and **PCA (Principal Component Analysis)**. The goal is to segment customers into distinct groups based on their financial behavior for better understanding, targeting, and insights.
 
@@ -55,14 +55,14 @@ These insights can support **targeted marketing**, **risk evaluation**, and **cu
 
 ---
 
-## 📈 Visual Example
+## Visual Example
 
 > PCA-reduced visualization with KMeans clusters and decision boundaries  
 > (see the notebook for the full interactive version)
 
 ---
 
-## 💡 Tools & Libraries
+##  Tools & Libraries
 
 - Python
 - NumPy, Pandas
