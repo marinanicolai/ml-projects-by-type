@@ -1,4 +1,4 @@
-# 🧠 Unsupervised Learning Flashcards
+# Unsupervised Learning Flashcards
 
 This repository contains resources to help you understand and remember key concepts in **Unsupervised Machine Learning**, including clustering algorithms like K-Means, DBSCAN, and hierarchical clustering.
 
