@@ -1,6 +1,6 @@
-# Unsupervised Learning Flashcards
+# 🧠 Unsupervised Learning Flashcards
 
-This repository contains resources to help you understand and remember key concepts in **Unsupervised Machine Learning**, including clustering algorithms like K-Means, DBSCAN, and hierarchical clustering.
+This repository contains resources to help you understand and remember key concepts in **Unsupervised Machine Learning**, including **clustering**, **dimensionality reduction**, and **association rule mining**.
 
 ---
 
@@ -11,31 +11,38 @@ Access the full interactive set of flashcards here:
 
 These cards cover topics such as:
 - What is Unsupervised Learning?
-- Clustering Techniques (K-Means, Hierarchical, DBSCAN)
-- Dimensionality Reduction (PCA)
-- Pattern discovery and analysis
+- Clustering Techniques (K-Means, DBSCAN, Hierarchical)
+- Dimensionality Reduction (PCA, t-SNE)
+- Association Rule Mining (Apriori, FP-Growth)
+- Pattern discovery and data structure analysis
+
+---
+
+## 📁 What's in This Repository
+
+In this folder, you'll find one mini-project for each major type of unsupervised learning:
+
+- 📊 **Clustering** — Grouping customers using K-Means
+- 🔽 **Dimensionality Reduction** — Visualizing high-dimensional data with PCA
+- 🔗 **Association Rule Mining** — Discovering product patterns with Apriori
 
 ---
 
 ## 🧾 What’s Included
 
-- ✅ Core definitions and goals
-- ✅ Key algorithms and use cases
-- ✅ Visualization tools (Elbow Method, Dendrogram)
+- ✅ Core definitions and goals of each type
+- ✅ Key algorithms and real-world use cases
+- ✅ Visualization tools (Elbow Method, Dendrogram, 2D projections)
 - ✅ Strengths and weaknesses of each approach
-
 
 ---
 
 ## ✍️ Author
 
-Created by [Marina Nicolai]  
-
+Created by [Marina Nicolai]
 
 ---
 
 ## 📜 License
 
 These study materials are open for educational use.
-
-
