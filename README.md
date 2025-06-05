@@ -28,7 +28,7 @@ Unsupervised learning works with unlabeled data to discover patterns or structur
 
 ---
 
-## 3. 🧠 **Ensemble Learning**
+## 3. 📚 **Ensemble Learning**
 
 Ensemble learning combines multiple models to improve performance and reduce overfitting.
 
@@ -44,8 +44,8 @@ Ensemble learning combines multiple models to improve performance and reduce ove
 
 Recommenders predict user preferences by learning from historical interactions.
 
-- **Collaborative Filtering** — Based on user-item similarity
-- **Content-Based Filtering** — Based on item attributes
+- **Collaborative Filtering** — Based on user-item similarity  
+- **Content-Based Filtering** — Based on item attributes  
 - **Hybrid Models** — Combine both methods
 
 *Use case:* Movie or product recommendation using user ratings dataset
@@ -58,6 +58,22 @@ Reinforcement learning involves an agent learning by interacting with an environ
 
 *Examples:* game playing, robotic control, self-driving cars  
 *Algorithms:* Q-Learning, Deep Q-Networks (DQN), Policy Gradient Methods
+
+---
+
+## 6. 🧬 **Deep Learning**
+
+Deep learning is a subfield of machine learning that uses multi-layered neural networks to model complex patterns in data.
+
+- **ANN (Artificial Neural Networks)** — Basic neural networks for tabular data  
+- **DNN (Deep Neural Networks)** — Deeper architectures with multiple layers  
+- **CNN (Convolutional Neural Networks)** — For image recognition  
+- **RNN (Recurrent Neural Networks)** — For sequential data (e.g., time series, text)  
+- **Transformers** — For modern NLP tasks (e.g., BERT, GPT)  
+- **Transfer Learning** — Reusing pretrained models  
+- **Frameworks** — Projects using TensorFlow or PyTorch
+
+*Use case:* Image classification, language translation, sentiment analysis
 
 ---
 
