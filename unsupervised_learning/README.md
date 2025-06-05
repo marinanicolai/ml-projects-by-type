@@ -1,4 +1,4 @@
-# 🧠 Unsupervised Learning Flashcards
+# Unsupervised Learning Flashcards
 
 This repository contains resources to help you understand and remember key concepts in **Unsupervised Machine Learning**, including **clustering**, **dimensionality reduction**, and **association rule mining**.
 
